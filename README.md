@@ -12,7 +12,7 @@
                 sandbox="allow-scripts allow-same-origin allow-modals allow-popups allow-forms"
                 resizable
                 src="https://abc123.cloudfront.net/amp.html?shortname=museseo&fontBodyColor=333333&fontBodyFamily=sans-serif&fontLinkColor=03A9F4&url=https://www.j-26.com&identifier=12345">
-    <div overflow tabindex=0 role=button aria-label="Disqus Comments">Disqus Comments</div><!-- Required by AMP as a fallback as pointed out here: https://github.com/disqus/disqus-install-examples/issues/3#issue-177942264 -->
+        <div overflow tabindex=0 role=button aria-label="Disqus Comments">Disqus Comments</div><!-- Required by AMP as a fallback as pointed out here: https://github.com/disqus/disqus-install-examples/issues/3#issue-177942264 -->
     </amp-iframe>
     ```
     
