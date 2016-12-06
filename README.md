@@ -32,6 +32,6 @@ Replace the URL in the example *(https://abc123.cloudfront.net/amp.html)* with t
 
 Lastly, add the required script tag to the `<head>` of your amp pages to enable the `amp-iframe` tag. [Read more](https://www.ampproject.org/docs/reference/extended/amp-iframe.html):
     
-    ```html
-    <script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
-    ```
+```html
+<script async custom-element="amp-iframe" src="https://cdn.ampproject.org/v0/amp-iframe-0.1.js"></script>
+```
