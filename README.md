@@ -23,7 +23,6 @@ Replace the URL in the example *(https://abc123.cloudfront.net/amp.html)* with t
 |Option          |Description  |
 |----------------|-------------|
 |`shortname`     |Your disqus shortname.|
-|`fontBodyColor` |The main font color of the page. **(You must replace with a hex value)**.|
 |`fontBodyFamily`|The main font family of the page. Disqus provides 2 options: `sans-serif` or `serif`. Or replace with `inherit`.|
 |`fontLinkColor` |The hyperlink font color. **(You must replace with a hex value)**.|
 |`url`           |The URL that users will be directed to if they click on a link to the discussion. *This will likely be the canonical URL of the AMP page.*|
