@@ -18,7 +18,7 @@
     
 ## Configuration
 
-Replace the URL in the example *(https://abc123.cloudfront.net/amp.html)* with the URL where you are hosting the `amp.html` file. The `src` URL provides 6 configurations. Only replace the text that comes after `=`.
+Replace the URL in the example *(https://abc123.cloudfront.net/amp.html)* with the URL where you are hosting the `amp.html` file. The `src` URL provides 5 configurations. Only replace the text that comes after `=`.
 
 |Option          |Description  |
 |----------------|-------------|
